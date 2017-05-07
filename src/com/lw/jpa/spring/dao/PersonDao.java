@@ -11,6 +11,7 @@ import com.lw.jpa.spring.entities.Person;
 public class PersonDao {
 
 	
+	
 	@PersistenceContext
 	private EntityManager entityManager ;
 	
